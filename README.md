@@ -29,7 +29,7 @@ We recommend using a virtualenv:
 
 ### Create a Facebook Ads App
 
-To use the Facebook Marketing API, you must create a Facebook Ads app. By creating a Facebook Ads app you will be able to use the Marketing API. [Create an app](https://developers.facebook.com/docs/marketing-apis)
+To use the Facebook Marketing API, you must create a Facebook Ads app. By creating a Facebook Ads app you will be able to use the [Marketing API.](https://developers.facebook.com/docs/marketing-apis) [Create an app here.](https://developers.facebook.com/apps/)
 
 Facebook has three access levels for the Marketing API. You can use this Tap with all three levels. Learn more about these levels in [Facebook documentation](https://developers.facebook.com/docs/marketing-api/access). https://developers.facebook.com/docs/marketing-api/access
 
